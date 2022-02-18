@@ -1,0 +1,2 @@
+# python-ImageCompare-ToExcelFile
+２つのフォルダを指定して、その中の同名の画像どうしを比較して、その差異の画像とともにExcelファイルに貼り付けて出力する。

@@ -9,6 +9,9 @@
 
 ![image](https://user-images.githubusercontent.com/64426512/154729901-8c16a31c-91fe-4f9e-939a-6410ecd3e96e.png)
 
+![image](https://user-images.githubusercontent.com/64426512/154841399-8afad503-48fd-4e2a-8c76-5bf6fe0ec2fe.png)
+
+
 指定したフォルダ内にある、同一名称の画像を左右に表示し、真ん中にその２画像の差異を示す画像を生成して貼り付けています。
 差異が無い箇所が、灰色です。
 
